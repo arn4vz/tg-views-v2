@@ -101,7 +101,7 @@ class Telegram:
 
     def cli(self):
         logo = '''
-        ~ Telegram Auto Views V4 ~
+        ~ Telegram Auto Views V2 ~
         ~ https://t.me/ARN4V_SHOP ~
                ~ @ARN4V_18 ~
         '''
